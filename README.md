@@ -1,3 +1,3 @@
-## Backbone example app.
+# Backbone example app.
 
-#Simple Backbonejs app to demonstrate relations between models and views.
+Simple Backbonejs app to demonstrate relations between models and views.
